@@ -1,0 +1,27 @@
+A personal Data Analytics project focused on analyzing Toyota sales data. The project covers data preparation, database management, sales analysis, and dashboard visualization.
+
+* SQL / SQLite
+* Microsoft Excel
+* Power BI
+* Data Analysis
+* Data Visualization
+
+The project analyzes:
+
+* Sales performance
+* Revenue
+* Discounts
+* Car models
+* Customers
+* Sales staff
+* Inventory
+
+Data Collection → Data Cleaning → SQL Analysis → Data Visualization → Dashboard
+
+Power BI Dashboard was created to visualize sales performance, revenue, and other key insights from the dataset.
+
+Database/    → SQLite database
+Excel/       → Excel data
+PowerBI/     → Power BI dashboard
+SQL/         → SQL queries
+Dashboard/   → Dashboard screenshots
